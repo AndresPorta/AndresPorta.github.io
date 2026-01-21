@@ -1,0 +1,20 @@
+[
+  {
+    "id": "para-ella",
+    "label": "PARA ELLA",
+    "file": "/data/para-ella.csv",
+    "count": 1118
+  },
+  {
+    "id": "para-el",
+    "label": "PARA EL",
+    "file": "/data/para-el.csv",
+    "count": 884
+  },
+  {
+    "id": "unisex",
+    "label": "UNISEX",
+    "file": "/data/unisex.csv",
+    "count": 40
+  }
+]
