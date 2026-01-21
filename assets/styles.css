@@ -168,3 +168,16 @@ td.des { width: 280px; }
   .controls { width: 100%; justify-content: flex-start; }
   .tabs { width: 100%; }
 }
+
+.wa-btn {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 10px 14px;
+  border-radius: 999px;
+  background: #25D366;
+  color: #0b0c10;
+  font-weight: 700;
+}
+.wa-btn:hover {
+  filter: brightness(1.05);
+}
